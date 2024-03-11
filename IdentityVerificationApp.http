@@ -1,0 +1,6 @@
+@IdentityVerificationApp_HostAddress = http://localhost:5057
+
+GET {{IdentityVerificationApp_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
